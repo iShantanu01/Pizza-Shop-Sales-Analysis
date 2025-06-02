@@ -68,7 +68,8 @@ The dataset used in this project contains historical order data from a pizza sho
 
 # 6. Tool used:- Power Bi
 
-# 7. DAX used:-
+# 7. DAX used:- 
+In this project several DAX are used , as follow:-
 
    1. AVG ORDER QTY = [TOTAL ORDER QTY]/[Total orders]
    2. hour = HOUR(pizza_sales[only_time])
@@ -80,33 +81,33 @@ The dataset used in this project contains historical order data from a pizza sho
 
 # 8. KPIs:-
 
-1. Total Orders
+1. Total Orders-
    What is the total number of pizza orders placed?
-2. Total Revenue
+2. Total Revenue-
    How much total revenue has the pizza shop generated?
-3. Total Order Quantity
+3. Total Order Quantity-
    How many pizzas were sold in total?
-4. Revenue per Order
+4. Revenue per Order-
    What is the average revenue generated per order?
-5. Time-Wise Sales
+5. Time-Wise Sales-
    At what time of the day are most pizzas sold?
-6. Monthly Sales Trends
+6. Monthly Sales Trends-
    How does sales performance vary month by month?
-7. Day-Wise Sales Trends
+7. Day-Wise Sales Trends-
    Which days of the week have the highest and lowest sales?
-8. Pizza Orders by Category
+8. Pizza Orders by Category-
    Which pizza category (e.g., Classic, Veggie, Supreme) is most popular?
-9. Yearly Sales Amount by Pizza Size
+9. Yearly Sales Amount by Pizza Size-
    How much revenue is generated yearly across different pizza sizes?
-10. Top-Selling Pizzas (by Revenue)
+10. Top-Selling Pizzas (by Revenue)-
    Which pizzas generate the most revenue?
-11. Top-Selling Pizzas (by Quantity)
+11. Top-Selling Pizzas (by Quantity)-
    Which pizzas are sold the most in terms of quantity?
-12. Least-Selling Pizzas (Overall)
+12. Least-Selling Pizzas (Overall)-
    Which pizzas have the lowest sales performance?
-13.Least-Selling Pizzas by Category
+13.Least-Selling Pizzas by Category-
    Within each category, which pizzas perform the worst?
-14. Most and Least Ordered Pizzas (by Order Count)
+14. Most and Least Ordered Pizzas (by Order Count)-
    Which pizzas are ordered the most and least in terms of order frequency?
 
 # 9. Conclusion:-
